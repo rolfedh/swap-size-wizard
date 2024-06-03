@@ -68,7 +68,7 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [Rolfe Dlugy-Hegwer](https://github.com/rolfedh)
 
 ## Note
 
